@@ -121,7 +121,7 @@
         "depends": ["escodegen", "esprima"],
         "feature_requirements": [],
         "min_os_version": "300001",
-        "packageRoot": "https://themirrazz.vercel.app/w96/v/vincepe",
+        "packageRoot": "$REPO_PATH$/w/wscript",
         "iconFiles": {
             "16x16": "$REPO_PATH$/iconless/16x16.png",
             "32x32": "$REPO_PATH$/iconless/32x32.png",
