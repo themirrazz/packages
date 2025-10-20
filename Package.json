@@ -1,0 +1,132 @@
+[
+    {
+        "name": "active-z",
+        "friendlyName": "ActiveZ",
+        "author": "themirrazz",
+        "description": "A cross-platform alternative to ActiveX.",
+        "version": 1.0,
+        "installedSize": 0,
+        "downloadSize": 0,
+        "depends": [],
+        "feature_requirements": [],
+        "min_os_version": "300001",
+        "packageRoot": "$REPO_PATH$/dist/a/active-z",
+        "iconFiles": {
+            "16x16": "$REPO_PATH$/iconless/16x16.png",
+            "32x32": "$REPO_PATH$/iconless/32x32.png",
+            "48x48": "$REPO_PATH$/iconless/48x48.png",
+            "64x64": "$REPO_PATH$/iconless/64x64.png"
+        }
+    },
+    {
+        "name": "escodegen",
+        "friendlyName": "Escodegen",
+        "author": "estools",
+        "description": "Installs the Escodegen libraries.",
+        "version": 1.0,
+        "installedSize": 21300,
+        "downloadSize": 21300,
+        "depends": [],
+        "feature_requirements": [],
+        "min_os_version": "300001",
+        "packageRoot": "$REPO_PATH$/dist/e/escodegen",
+        "iconFiles": {
+            "16x16": "$REPO_PATH$/iconless/16x16.png",
+            "32x32": "$REPO_PATH$/iconless/32x32.png",
+            "48x48": "$REPO_PATH$/iconless/48x48.png",
+            "64x64": "$REPO_PATH$/iconless/64x64.png"
+        }
+    },
+    {
+        "name": "esprima",
+        "friendlyName": "Esprima",
+        "author": "jquery",
+        "description": "Installs the Esprima libraries.",
+        "version": 1.0,
+        "installedSize": 44000,
+        "downloadSize": 44000,
+        "depends": [],
+        "feature_requirements": [],
+        "min_os_version": "300001",
+        "packageRoot": "$REPO_PATH$/dist/e/esprima",
+        "iconFiles": {
+            "16x16": "$REPO_PATH$/iconless/16x16.png",
+            "32x32": "$REPO_PATH$/iconless/32x32.png",
+            "48x48": "$REPO_PATH$/iconless/48x48.png",
+            "64x64": "$REPO_PATH$/iconless/64x64.png"
+        }
+    },
+    {
+        "name": "scratch-desktop",
+        "friendlyName": "Scratch Desktop",
+        "author": "themirrazz",
+        "description": "Create, save, and run Scratch projects directly on Windows 96!",
+        "version": 1.0,
+        "installedSize": 17276094,
+        "downloadSize": 17276094,
+        "depends": [],
+        "feature_requirements": [],
+        "min_os_version": "300001",
+        "packageRoot": "$REPO_PATH$/dist/s/scratch-desktop",
+        "iconFiles": {
+            "16x16": "$REPO_PATH$/dist/s/scratch-desktop/icon16.png",
+            "32x32": "$REPO_PATH$/dist/s/scratch-desktop/icon32.png"
+        }
+    },
+    {
+        "name": "sval",
+        "friendlyName": "Sval",
+        "author": "Suibaak",
+        "description": "Installs the sval JS interpreter libraries.",
+        "version": 0.6,
+        "installedSize": 117000,
+        "downloadSize": 117000,
+        "depends": [],
+        "feature_requirements": [],
+        "min_os_version": "2.42",
+        "packageRoot": "$REPO_PATH$/dist/s/sval",
+        "iconFiles": {
+            "16x16": "https://avatars.githubusercontent.com/u/25946398?s=16&v=4",
+            "32x32": "https://avatars.githubusercontent.com/u/25946398?s=32&v=4",
+            "64x64": "https://avatars.githubusercontent.com/u/25946398?s=64&v=4"
+        }
+    },
+    {
+        "name": "vincep",
+        "friendlyName": "Vincep",
+        "author": "themirrazz",
+        "description": "Spoof your version number to let you install V2 apps on V3.",
+        "version": 1.0,
+        "installedSize": 0,
+        "downloadSize": 0,
+        "depends": [],
+        "feature_requirements": [],
+        "min_os_version": "300001",
+        "packageRoot": "https://themirrazz.vercel.app/w96/v/vincep",
+        "iconFiles": {
+            "16x16": "$REPO_PATH$/iconless/16x16.png",
+            "32x32": "$REPO_PATH$/iconless/32x32.png",
+            "48x48": "$REPO_PATH$/iconless/48x48.png",
+            "64x64": "$REPO_PATH$/iconless/64x64.png"
+        }
+    },
+    {
+        "name": "wscript",
+        "friendlyName": "WScript",
+        "author": "themirrazz",
+        "description": "Run JScript programs on Windows 96, powered by Esprima and Escodegen!",
+        "version": 1.0,
+        "installedSize": 7950,
+        "downloadSize": 7950,
+        "depends": ["escodegen", "esprima"],
+        "feature_requirements": [],
+        "min_os_version": "300001",
+        "packageRoot": "https://themirrazz.vercel.app/w96/v/vincepe",
+        "iconFiles": {
+            "16x16": "$REPO_PATH$/iconless/16x16.png",
+            "32x32": "$REPO_PATH$/iconless/32x32.png",
+            "48x48": "$REPO_PATH$/iconless/48x48.png",
+            "64x64": "$REPO_PATH$/iconless/64x64.png"
+        }
+    }
+]
