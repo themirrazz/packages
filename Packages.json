@@ -10,12 +10,23 @@
         "depends": [],
         "feature_requirements": [],
         "min_os_version": "300001",
-        "packageRoot": "$REPO_PATH$/dist/a/active-z",
+        "packageRoot": "$REPO_PATH$/dist/a/active-z"
+    },
+    {
+        "name": "discord-localhost",
+        "friendlyName": "Discord (Localhosted)",
+        "author": "themirrazz",
+        "description": "An experimental port of Discord for Windows 96.",
+        "version": 1.0,
+        "installedSize": 0,
+        "downloadSize": 0,
+        "depends": [],
+        "feature_requirements": [],
+        "min_os_version": "300001",
+        "packageRoot": "$REPO_PATH$/dist/d/discord-localhost",
         "iconFiles": {
-            "16x16": "$REPO_PATH$/iconless/16x16.png",
-            "32x32": "$REPO_PATH$/iconless/32x32.png",
-            "48x48": "$REPO_PATH$/iconless/48x48.png",
-            "64x64": "$REPO_PATH$/iconless/64x64.png"
+            "16x16": "$REPO_PATH$/dist/d/discord-localhost/icon16.png",
+            "32x32": "$REPO_PATH$/dist/d/discord-localhost/icon32.png"
         }
     },
     {
@@ -29,13 +40,7 @@
         "depends": [],
         "feature_requirements": [],
         "min_os_version": "300001",
-        "packageRoot": "$REPO_PATH$/dist/e/escodegen",
-        "iconFiles": {
-            "16x16": "$REPO_PATH$/iconless/16x16.png",
-            "32x32": "$REPO_PATH$/iconless/32x32.png",
-            "48x48": "$REPO_PATH$/iconless/48x48.png",
-            "64x64": "$REPO_PATH$/iconless/64x64.png"
-        }
+        "packageRoot": "$REPO_PATH$/dist/e/escodegen"
     },
     {
         "name": "esprima",
@@ -48,13 +53,7 @@
         "depends": [],
         "feature_requirements": [],
         "min_os_version": "300001",
-        "packageRoot": "$REPO_PATH$/dist/e/esprima",
-        "iconFiles": {
-            "16x16": "$REPO_PATH$/iconless/16x16.png",
-            "32x32": "$REPO_PATH$/iconless/32x32.png",
-            "48x48": "$REPO_PATH$/iconless/48x48.png",
-            "64x64": "$REPO_PATH$/iconless/64x64.png"
-        }
+        "packageRoot": "$REPO_PATH$/dist/e/esprima"
     },
     {
         "name": "scratch-desktop",
@@ -102,12 +101,23 @@
         "depends": [],
         "feature_requirements": [],
         "min_os_version": "300001",
-        "packageRoot": "https://themirrazz.vercel.app/w96/v/vincep",
+        "packageRoot": "https://themirrazz.vercel.app/w96/v/vincep"
+    },
+    {
+        "name": "wspotlight",
+        "friendlyName": "Windows Spotlight",
+        "author": "themirrazz",
+        "description": "Use Windows Spotlight wallpapers on Windows 96.",
+        "version": 1.0,
+        "installedSize": 17800,
+        "downloadSize": 17800,
+        "depends": [],
+        "feature_requirements": [],
+        "min_os_version": 2.42,
+        "packageRoot": "$REPO_PATH$/dist/w/wspotlight",
         "iconFiles": {
-            "16x16": "$REPO_PATH$/iconless/16x16.png",
-            "32x32": "$REPO_PATH$/iconless/32x32.png",
-            "48x48": "$REPO_PATH$/iconless/48x48.png",
-            "64x64": "$REPO_PATH$/iconless/64x64.png"
+            "16x16": "$REPO_PATH$/dist/w/wspotlight/bingicon-16x16.png",
+            "32x32": "$REPO_PATH$/dist/w/wspotlight/bingicon.png"
         }
     },
     {
@@ -121,12 +131,6 @@
         "depends": ["escodegen", "esprima"],
         "feature_requirements": [],
         "min_os_version": "300001",
-        "packageRoot": "$REPO_PATH$/dist/w/wscript",
-        "iconFiles": {
-            "16x16": "$REPO_PATH$/iconless/16x16.png",
-            "32x32": "$REPO_PATH$/iconless/32x32.png",
-            "48x48": "$REPO_PATH$/iconless/48x48.png",
-            "64x64": "$REPO_PATH$/iconless/64x64.png"
-        }
+        "packageRoot": "$REPO_PATH$/dist/w/wscript"
     }
 ]
