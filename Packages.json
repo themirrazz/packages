@@ -32,6 +32,24 @@
         }
     },
     {
+        "name": "dynlib",
+        "friendlyName": "DynLib",
+        "author": "themirrazz",
+        "category": "utilities",
+        "description": "Dynamically linked libraries for Windows 96.",
+        "version": 1.0,
+        "installedSize": 0,
+        "downloadSize": 0,
+        "depends": [],
+        "feature_requirements": [],
+        "min_os_version": "2.42",
+        "packageRoot": "$REPO_PATH$/dist/d/dynlib",
+        "iconFiles": {
+            "16x16": "https://windows96.net/system/resource/icons/win96/32x32/mime/library",
+            "32x32": "https://windows96.net/system/resource/icons/win96/32x32/mime/library"
+        }
+    },
+    {
         "name": "escodegen",
         "friendlyName": "Escodegen",
         "author": "estools",
@@ -58,6 +76,24 @@
         "feature_requirements": [],
         "min_os_version": "300001",
         "packageRoot": "$REPO_PATH$/dist/e/esprima"
+    },
+    {
+        "name": "html2canvas",
+        "friendlyName": "html2canvas",
+        "author": "Microsoft",
+        "category": "libraries",
+        "description": "Includes a DynLib library.",
+        "version": 1.0,
+        "installedSize": 0,
+        "downloadSize": 0,
+        "depends": [],
+        "feature_requirements": [],
+        "min_os_version": "2.42",
+        "packageRoot": "$REPO_PATH$/dist/h/html2canvas",
+        "iconFiles": {
+            "16x16": "https://windows96.net/system/resource/icons/win96/32x32/mime/library",
+            "32x32": "https://windows96.net/system/resource/icons/win96/32x32/mime/library"
+        }
     },
     {
         "name": "scratch-desktop",
