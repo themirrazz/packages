@@ -96,6 +96,42 @@
         }
     },
     {
+        "name": "korejs",
+        "friendlyName": "KoreJS",
+        "author": "Onofficiel",
+        "category": "development",
+        "description": "KoreJS is the modern Windows 96 JavaScript Runtime.",
+        "version": 1.0,
+        "installedSize": 218000,
+        "downloadSize": 58700,
+        "depends": [],
+        "feature_requirements": [],
+        "min_os_version": "300001",
+        "packageRoot": "$REPO_PATH$/dist/k/korejs",
+        "iconFiles": {
+            "16x16": "$REPO_PATH$/dist/k/korejs/icon16.png",
+            "32x32": "$REPO_PATH$/dist/k/korejs/icon32.png"
+        }
+    },
+    {
+        "name": "obsvirtualcamera",
+        "friendlyName": "OBS Virtual Camera",
+        "author": "themirrazz",
+        "category": "accessories",
+        "description": "Virtual camera for OBS Studio! Works with most Windows 96 apps.",
+        "version": 1.0,
+        "installedSize": 463000,
+        "downloadSize": 463000,
+        "depends": [],
+        "feature_requirements": [],
+        "min_os_version": "300001",
+        "packageRoot": "$REPO_PATH$/dist/o/obsvirtualcamera",
+        "iconFiles": {
+            "16x16": "$REPO_PATH$/dist/o/obs-studio/icon16.png",
+            "32x32": "$REPO_PATH$/dist/o/obs-studio/icon32.png"
+        }
+    },
+    {
         "name": "scratch-desktop",
         "friendlyName": "Scratch Desktop",
         "author": "themirrazz",
