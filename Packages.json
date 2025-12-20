@@ -96,6 +96,24 @@
         }
     },
     {
+        "name": "jdk-25",
+        "friendlyName": "JDK 25.0.1 (Public Alpha)",
+        "author": "themirrazz",
+        "category": "development",
+        "description": "Java for Windows 96, powered by TeaVM",
+        "version": 0.1,
+        "installedSize": 0,
+        "downloadSize": 3900000,
+        "depends": [],
+        "feature_requirements": ["WebAssembly"],
+        "min_os_version": "300001",
+        "packageRoot": "$REPO_PATH%/dist/j/jdk-25",
+        "iconFiles": {
+            "16x16": "$REPO_PATH$/dist/j/jdk-25/icon16.png",
+            "32x32": "$REPO_PATH$/dist/j/jdk-25/icon32.png"
+        }
+    },
+    {
         "name": "korejs",
         "friendlyName": "KoreJS",
         "author": "Onofficiel",
