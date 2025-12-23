@@ -97,7 +97,7 @@
     },
     {
         "name": "jdk-25",
-        "friendlyName": "JDK 25.0.1 (Public Alpha)",
+        "friendlyName": "JDK 25.0.2 (Public Alpha)",
         "author": "themirrazz",
         "category": "development",
         "description": "Java for Windows 96, powered by TeaVM",
