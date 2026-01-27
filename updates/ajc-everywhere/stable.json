@@ -1,9 +1,9 @@
 {
     "channel": "stable",
-    "version": "0.0.4-alpha",
+    "version": "0.0.5-alpha",
     "githubReleaseLink": null,
     "download": {
-        "linux-x64": "https://github.com/themirrazz/ajc-linux/releases/download/v0.0.4-alpha/AJ.Classic-linux-x64.tar.gz",
-        "linux-armv7": "https://github.com/themirrazz/ajc-linux/releases/download/v0.0.4-alpha/AJ.Classic-linux-armv7l.tar.gz"
+        "linux-x64": "https://github.com/themirrazz/ajc-linux/releases/download/v0.0.5-alpha/AJ.Classic-linux-x64.tar.gz",
+        "linux-armv7": "https://github.com/themirrazz/ajc-linux/releases/download/v0.0.5-alpha/AJ.Classic-linux-armv7l.tar.gz"
     }
 }
