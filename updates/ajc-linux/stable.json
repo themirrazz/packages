@@ -1,0 +1,9 @@
+{
+    "channel": "stable"
+    "version": "0.0.2-alpha",
+    "githubReleaseLink": null,
+    "download": {
+        "linux-x64": "",
+        "linux-armv7": ""
+    }
+}
